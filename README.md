@@ -2,6 +2,12 @@
 
 This project provides a Python-based signal analysis pipeline for structural recovery and localization in high-entropy spectral waterfall data. The framework combines Marchenko–Pastur filtering, Singular Spectrum Analysis (SSA), Z-complex reconstruction, Fisher-inspired localization, and Modified Shannon–Fisher Ratio (MSFR) mapping.
 
+## Poster Presentation
+
+The repository also includes a poster presentation summarizing the Z-Complex reconstruction framework, the MP–SSA recovery pipeline, and the Shannon–Fisher localization methodology.
+
+```text
+poster_chaos_map.pdf
 ## What the project does
 
 The pipeline processes spectral waterfall data stored as HDF5 files and generates a compact 2×3 reconstruction figure containing:
