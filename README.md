@@ -25,7 +25,7 @@ Real spectroscopic waterfall obtained during picosecond laser–matter interacti
 ### Synthetic spectral waterfall
 Synthetic high-entropy spectral waterfall generated using the included simulator.
 
-![Synthetic Waterfall](z_complex_publication_figure.png)
+![Synthetic Waterfall](z_complex_pipeline_figure.png)
 
 The current generator is intended only as a signal-level simulator for testing the reconstruction pipeline. Although it reproduces several statistical and structural properties of spectral waterfall data, it does not yet model the physical dynamics of laser-stimulated emission, plasma evolution, or crystal-lattice interaction processes.
 
