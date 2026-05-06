@@ -6,8 +6,8 @@ This project provides a Python-based signal analysis pipeline for structural rec
 
 The repository also includes a poster presentation summarizing the Z-Complex reconstruction framework, the MP–SSA recovery pipeline, and the Shannon–Fisher localization methodology.
 
-```text
-poster_chaos_map.pdf
+![poster](poster_chaos_map.pdf)
+
 ## What the project does
 
 The pipeline processes spectral waterfall data stored as HDF5 files and generates a compact 2×3 reconstruction figure containing:
