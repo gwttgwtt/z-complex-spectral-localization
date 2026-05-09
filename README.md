@@ -25,6 +25,18 @@ The pipeline processes spectral waterfall data stored as HDF5 files and generate
 
 The goal is to reveal weak coherent spectral structures that may remain hidden inside high-entropy or noisy spectral observations.
 
+## Core Concept
+
+The framework transforms noisy spectral waterfalls into an information-structured representation where:
+entropy acts as an information-density descriptor,
+Fisher information acts as a structural transition detector,
+and complex-domain reconstruction reveals latent coherent dynamics hidden inside stochastic observations.
+
+The central reconstruction is based on the Z-complex representation:
+\[
+Z(t,f) = A_{MP}(t,f) + iA_{SSA}(t,f)
+\]
+
 ## Experimental vs Synthetic Spectral Waterfalls
 
 ### Experimental spectral waterfall
