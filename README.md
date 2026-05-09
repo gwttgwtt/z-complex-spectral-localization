@@ -12,6 +12,9 @@ The repository also includes a poster presentation summarizing the Z-Complex rec
 
 The pipeline processes spectral waterfall data stored as HDF5 files and generates a compact 2×3 reconstruction figure containing:
 
+![Z-complex software](z_bearing_generator.py)
+![Z-complex synthetic generator](z_complex_publication_figure_2.py) 
+
 1. the original spectral waterfall,
 2. the MP-filtered spectral backbone,
 3. the SSA-recovered residual structure,
