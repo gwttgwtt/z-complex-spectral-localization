@@ -28,14 +28,12 @@ The goal is to reveal weak coherent spectral structures that may remain hidden i
 ## Core Concept
 
 The framework transforms noisy spectral waterfalls into an information-structured representation where:
-entropy acts as an information-density descriptor,
-Fisher information acts as a structural transition detector,
-and complex-domain reconstruction reveals latent coherent dynamics hidden inside stochastic observations.
+1. Еntropy acts as an information-density descriptor,
+2. Fisher information acts as a structural transition detector,
+3. Сomplex-domain reconstruction reveals latent coherent dynamics hidden inside stochastic observations.
 
 The central reconstruction is based on the Z-complex representation:
-\[
-Z(t,f) = A_{MP}(t,f) + iA_{SSA}(t,f)
-\]
+\[Z(t,f) = A_{MP}(t,f) + iA_{SSA}(t,f)\]
 
 ## Experimental vs Synthetic Spectral Waterfalls
 
