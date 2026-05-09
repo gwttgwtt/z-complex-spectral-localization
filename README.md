@@ -26,12 +26,14 @@ The goal is to reveal weak coherent spectral structures that may remain hidden i
 ### Experimental spectral waterfall
 Real spectroscopic waterfall obtained during picosecond laser–matter interaction experiments on crystalline material structures.
 
-![Experimental Waterfall](z_complex_pipeline.png)
+![Experimental Waterfall](real_complex_pipeline_kapur_ssa30_mp20.png)
+![Experimental Waterfall](real_complex_ssa_kapur_ssa30_mp20.png)
 
 ### Synthetic spectral waterfall
 Synthetic high-entropy spectral waterfall generated using the included simulator.
 
-![Synthetic Waterfall](z_complex_pipeline_figure.png)
+![Synthetic Waterfall](sim_complex_pipeline_shannon_ssa30_mp1.png)
+![Synthetic Waterfall](sim_complex_ssa_shannon_ssa30_mp1.png)
 
 The current generator is intended only as a signal-level simulator for testing the reconstruction pipeline. Although it reproduces several statistical and structural properties of spectral waterfall data, it does not yet model the physical dynamics of laser-stimulated emission, plasma evolution, or crystal-lattice interaction processes.
 
